@@ -1,0 +1,6 @@
+framework module Pods_assignment_week3_daangn_assignment_week3_daangnUITests {
+  umbrella header "Pods-assignment_week3_daangn-assignment_week3_daangnUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
